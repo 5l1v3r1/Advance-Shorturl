@@ -46,7 +46,7 @@
  
 > `git clone https://github.com/samay825/Advance-Shorturl`
  
-> `cd Sms-Bomb`  
+> `cd Advance-Shorturl`  
 
 > `pip install -r requirements.txt`
  
