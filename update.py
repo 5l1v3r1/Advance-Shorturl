@@ -22,7 +22,7 @@ system('cls' if name=='nt' else 'clear')
 #-------update
 system('rm -rf main.py')
 sleep(0.1)
-system('https://raw.githubusercontent.com/samay825/Advance-Shorturl/main/main.py')
+system('wget https://raw.githubusercontent.com/samay825/Advance-Shorturl/main/main.py')
 print(r+"└─ "+w+"\033[1;37m>> Script Updated <<")
 sleep(0.5)
 
